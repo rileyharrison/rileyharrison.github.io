@@ -3,11 +3,11 @@
 
 
 @font-face{
-  font-family: 'myCambo';
+  font-family: myCambo;
   src: url('http://williamrileyharrison.weebly.com/uploads/7/0/6/0/70608077/cambo-regular.otf')
 }
 .riley{
     color: blue;
-  font-family: 'myCambo';
+  font-family: myCambo;
 
 }
