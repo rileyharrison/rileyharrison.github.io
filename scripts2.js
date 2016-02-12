@@ -8,6 +8,7 @@ var avengersMovie = {
 
 
 function logObject(){
+	console.log("testing");
 	console.log("here I am");
 	console.log(avengersMovie);
 }
