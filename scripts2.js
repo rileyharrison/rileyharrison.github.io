@@ -8,5 +8,6 @@ var avengersMovie = {
 
 
 function logObject(){
+	console.log("here I am");
 	console.log(avengersMovie);
 }
